@@ -53,7 +53,7 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
   <td style="text-align:center;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>Video-P2P</b></td>
   <td style="text-align:center;"><b>Ours</b></td>
-  </tr>
+</tr>
 
 <tr>
   <td width=25% style="text-align:center;color:gray;">"clouds flowing under a skyscraper"</td>
