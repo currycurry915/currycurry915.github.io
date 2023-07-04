@@ -27,12 +27,9 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 
 - Promising results in editing attributes, subjects, places, etc., in real-world videos.
 
-## News
-* [2023.4.12] Online Gradio Demo is available [here](https://huggingface.co/spaces/BAAI/vid2vid-zero).
-* [2023.4.11] Add Gradio Demo (runs in local).
-* [2023.4.9] Code released! 
 
 ## Installation
+
 ### Requirements
 
 ```shell
@@ -71,10 +68,11 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 <table class="center">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
-  <td style="text-align:center;"><b>Output Video</b></td>
+  <td style="text-align:center;"><b>Video-P2P</b></td>
+  <td style="text-align:center;"><b>Ours</b></td>
   <td style="text-align:center;"><b>Input Video</b></td>
-  <td style="text-align:center;"><b>Output Video</b></td>
-</tr>
+  <td style="text-align:center;"><b>Video-P2P</b></td>
+  <td style="text-align:center;"><b>Ours</b></td></tr>
 
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
