@@ -74,8 +74,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="examples/child-riding_flooded.gif"></td>
-  <td style colspan="2"><img src="examples/child-riding_lego.gif"></td>       
+  <td style colspan="2"><img src="results/clouds-wave-input.gif"></td>
+  <td style colspan="2"><img src="results/clouds-wave-existing.gif"></td>
+  <td style colspan="2"><img src="results/clouds-wave-MMI.gif"></td>       
 </tr>
 
 <tr>
@@ -85,26 +86,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="examples/red-moving_snow.gif"></td>
-  <td style colspan="2"><img src="examples/red-moving_desert.gif"></td>       
+  <td style colspan="2"><img src="results/clouds-wave-input.gif"></td>
+  <td style colspan="2"><img src="results/clouds-wave-existing.gif"></td>
+  <td style colspan="2"><img src="results/clouds-wave-MMI.gif"></td>       
 </tr>
 </table>
 
-## Citation
-
-```
-@article{vid2vid-zero,
-  title={Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models},
-  author={Wang, Wen and Xie, kangyang and Liu, Zide and Chen, Hao and Cao, Yue and Wang, Xinlong and Shen, Chunhua},
-  journal={arXiv preprint arXiv:2303.17599},
-  year={2023}
-}
-```
-
-## Acknowledgement
-[Tune-A-Video](https://github.com/showlab/Tune-A-Video), [diffusers](https://github.com/huggingface/diffusers), [prompt-to-prompt](https://github.com/google/prompt-to-prompt).
-
-## Contact
-
-**We are hiring** at all levels at BAAI Vision Team, including full-time researchers, engineers and interns. 
-If you are interested in working with us on **foundation model, visual perception and multimodal learning**, please contact [Xinlong Wang](https://www.xloong.wang/) (`wangxinlong@baai.ac.cn`) and [Yue Cao](http://yue-cao.me/) (`caoyue@baai.ac.cn`).
