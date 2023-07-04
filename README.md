@@ -62,8 +62,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="examples/man-running_stephen.gif"></td>
-  <td style colspan="2"><img src="examples/man-running_newyork.gif"></td>       
+  <td style colspan="2"><img src="results/clouds-wave-input.gif"></td>
+  <td style colspan="2"><img src="results/clouds-wave-existing.gif"></td>
+  <td style colspan="2"><img src="results/clouds-wave-MMI.gif"></td>
 </tr>
 
 <tr>
