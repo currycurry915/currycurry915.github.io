@@ -67,10 +67,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A child is riding a bike on the road"</td>
-  <td width=25% style="text-align:center;">"a child is riding a bike on the flooded road"</td>
-  <td width=25% style="text-align:center;color:gray;">"A child is riding a bike on the road"</td>
-  <td width=25% style="text-align:center;">"a lego child is riding a bike on the road.gif"</td>
+  <td width=25% style="text-align:center;color:gray;">"clouds flowing on the mountain"</td>
+  <td width=25% style="text-align:center;">"lava flowing on the mountain"</td>
+  <td width=25% style="text-align:center;color:gray;">"lava flowing on the mountain"</td>
 </tr>
 
 <tr>
