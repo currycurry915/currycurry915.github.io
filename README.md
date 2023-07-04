@@ -2,10 +2,9 @@
 
 <h1>AttentionFlow: Text-to-Video Editing Using Motion Map Injection Module</h1>
 
-<h3><!--<a href="https://arxiv.org/abs/2303.17599"> Accept되면 링크 넣기-->AttentionFlow: Text-to-Video Editing Using Motion Map Injection Module</a></h3>
+<!-- <h3><a href="https://arxiv.org/abs/2303.17599"> Accept되면 링크 넣기 AttentionFlow: Text-to-Video Editing Using Motion Map Injection Module</a></h3> -->
 
-<!-- [Wen Wang](https://scholar.google.com/citations?user=1ks0R04AAAAJ&hl=zh-CN)<sup>1*</sup>, &nbsp; [Kangyang Xie](https://github.com/felix-ky)<sup>1*</sup>, &nbsp; [Zide Liu](https://github.com/zideliu)<sup>1*</sup>, &nbsp; [Hao Chen](https://scholar.google.com.au/citations?user=FaOqRpcAAAAJ&hl=en)<sup>1</sup>, &nbsp; [Yue Cao](http://yue-cao.me/)<sup>2</sup>, &nbsp; [Xinlong Wang](https://www.xloong.wang/)<sup>2</sup>, &nbsp; [Chunhua Shen](https://cshen.github.io/)<sup>1</sup> 나중에 우리 이름 넣고 고치기
- --> 
+<!-- 나중에 우리 이름 넣고 고치기 [Wen Wang](https://scholar.google.com/citations?user=1ks0R04AAAAJ&hl=zh-CN)<sup>1*</sup>, &nbsp; [Kangyang Xie](https://github.com/felix-ky)<sup>1*</sup>, &nbsp; [Zide Liu](https://github.com/zideliu)<sup>1*</sup>, &nbsp; [Hao Chen](https://scholar.google.com.au/citations?user=FaOqRpcAAAAJ&hl=en)<sup>1</sup>, &nbsp; [Yue Cao](http://yue-cao.me/)<sup>2</sup>, &nbsp; [Xinlong Wang](https://www.xloong.wang/)<sup>2</sup>, &nbsp; [Chunhua Shen](https://cshen.github.io/)<sup>1</sup> --> 
 <!-- <sup>1</sup>[ZJU](https://www.zju.edu.cn/english/), &nbsp; <sup>2</sup>[BAAI](https://www.baai.ac.cn/english.html) -->
 
 <br>
@@ -21,16 +20,14 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 
 ## Setup
 
-<!--### Requirements
-
 ```shell
 pip install -r requirements.txt
 ```
-Installing [xformers](https://github.com/facebookresearch/xformers) is highly recommended for improved efficiency and speed on GPUs. 
+The environment is very similar to [Video-P2P](https://github.com/ShaoTengLiu/Video-P2P)
 
 ### Weights
-나중에 필요하면 넣기...? 일단 쓸 내용은 있음 Compvis v1.5
--->
+We use the pre-trained stable diffusion model "Compvis v1.5". You can download it here. 
+
 
 ## Quickstart
 
