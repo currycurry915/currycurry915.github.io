@@ -49,10 +49,8 @@ python run_tuning.py  --config="configs/cloud-1-tune.yaml"
 ``` bash
 # Stage 2: Attention Control
 
-# We develop a faster mode (1 min on V100):
 python run_attention_flow.py --config="configs/cloud-1-p2p.yaml" --fast
 
-# The official mode (10 mins on V100, more stable):
 python run_attention_flow.py --config="configs/cloud-1-p2p.yaml"
 ```
 
