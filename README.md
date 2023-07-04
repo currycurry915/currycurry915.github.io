@@ -56,10 +56,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
   </tr>
 
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"aaaa"</td>
-  <td width=25% style="text-align:center;">"bbbb"</td>
-  <td width=25% style="text-align:center;color:gray;">"aaaaa"</td>
-  <td width=25% style="text-align:center;">"bbbbb"</td>
+  <td width=25% style="text-align:center;color:gray;">"clouds flowing under a skyscraper"</td>
+  <td width=25% style="text-align:center;">"waves flowing under a skyscraper"</td>
+  <td width=25% style="text-align:center;color:gray;">"waves flowing under a skyscraper"</td>
 </tr>
 
 <tr>
