@@ -52,13 +52,14 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>Video-P2P</b></td>
-  <t터-->
+  <td style="text-align:center;"><b>Ours</b></td>
+  </tr>
 
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A man is running"</td>
-  <td width=25% style="text-align:center;">"Stephen Curry is running in Time Square"</td>
-  <td width=25% style="text-align:center;color:gray;">"A man is running"</td>
-  <td width=25% style="text-align:center;">"A man is running in New York City"</td>
+  <td width=25% style="text-align:center;color:gray;">"aaaa"</td>
+  <td width=25% style="text-align:center;">"bbbb"</td>
+  <td width=25% style="text-align:center;color:gray;">"aaaaa"</td>
+  <td width=25% style="text-align:center;">"bbbbb"</td>
 </tr>
 
 <tr>
