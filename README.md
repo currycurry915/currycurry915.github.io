@@ -55,17 +55,23 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
   <td style="text-align:center;"><b>Ours</b></td>
 </tr>
 
-<tr>
+ <tr>
   <td width=25% style="text-align:center;color:gray;">"clouds flowing under a skyscraper"</td>
   <td width=25% style="text-align:center;">"waves flowing under a skyscraper"</td>
   <td width=25% style="text-align:center;color:gray;">"waves flowing under a skyscraper"</td>
 </tr>
 
-<tr>
+<!-- <tr>
+ 오리지널 코드
   <td style colspan="2"><img src="results/clouds-waves-input.gif"></td>
   <td style colspan="2"><img src="results/clouds-waves-existing.gif"></td>
   <td style colspan="2"><img src="results/clouds-waves-MMI.gif"></td>
-</tr>
+</tr> -->
+<td height = "0">
+  <div style = "height:100%"><img src = "results/clouds-waves-input.gif" height = "100%"></div>
+  <div style = "height:100%"><img src = "results/clouds-waves-existing.gif" height = "100%"></div>
+  <div style = "height:100%"><img src = "results/clouds-waves-MMI.gif" height = "100%"></div>
+</td>
 
 <tr>
   <td width=25% style="text-align:center;color:gray;">"clouds flowing on the mountain"</td>
