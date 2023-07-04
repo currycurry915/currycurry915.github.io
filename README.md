@@ -52,25 +52,7 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>Video-P2P</b></td>
-  <td style="text-align:center;"><b>Ours</b></td>
-  <td style="text-align:center;"><b>Input Video</b></td>
-  <td style="text-align:center;"><b>Video-P2P</b></td>
-  <td style="text-align:center;"><b>Ours</b></td></tr>
-
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"clouds flowing under a skyscraper"</td>
-  <td width=25% style="text-align:center;">"waves flowing under a skyscraper"</td>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A jeep car is moving on the snow"</td>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A jeep car is moving on the snow"</td>
-</tr>
-
-<tr>
-  <td style colspan="2"><img src="examples/jeep-moving_Porsche.gif"></td>
-  <td style colspan="2"><img src="examples/jeep-moving_snow.gif"></td>       
-</tr>
-
+  <t터-->
 
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man is running"</td>
