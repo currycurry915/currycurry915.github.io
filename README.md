@@ -26,7 +26,8 @@ pip install -r requirements.txt
 The environment is very similar to [Video-P2P](https://github.com/ShaoTengLiu/Video-P2P)
 
 ### Weights
-We use the pre-trained stable diffusion model "Compvis v1.5". You can download it here. 
+
+We use the pre-trained stable diffusion model. You can download it [here](https://huggingface.co/runwayml/stable-diffusion-v1-5). 
 
 
 ## Quickstart
