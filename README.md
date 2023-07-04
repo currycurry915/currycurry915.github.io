@@ -62,9 +62,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="AttentionFlow/results/clouds-wave-input.gif"></td>
-  <td style colspan="2"><img src="results/clouds-wave-existing.gif"></td>
-  <td style colspan="2"><img src="results/clouds-wave-MMI.gif"></td>
+  <td style colspan="2"><img src="results/clouds-waves-input.gif"></td>
+  <td style colspan="2"><img src="results/clouds-waves-existing.gif"></td>
+  <td style colspan="2"><img src="results/clouds-waves-MMI.gif"></td>
 </tr>
 
 <tr>
@@ -74,9 +74,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="results/clouds-wave-input.gif"></td>
-  <td style colspan="2"><img src="results/clouds-wave-existing.gif"></td>
-  <td style colspan="2"><img src="results/clouds-wave-MMI.gif"></td>       
+  <td style colspan="2"><img src="results/clouds-lava-input.gif"></td>
+  <td style colspan="2"><img src="results/clouds-lava-existing.gif"></td>
+  <td style colspan="2"><img src="results/clouds-lava-MMI.gif"></td>       
 </tr>
 
 <tr>
@@ -86,9 +86,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="results/clouds-wave-input.gif"></td>
-  <td style colspan="2"><img src="results/clouds-wave-existing.gif"></td>
-  <td style colspan="2"><img src="results/clouds-wave-MMI.gif"></td>       
+  <td style colspan="2"><img src="results/yellow-wings-input.gif"></td>
+  <td style colspan="2"><img src="results/yellow-wings-existing.gif"></td>
+  <td style colspan="2"><img src="results/yellow-wings-MMI.gif"></td>       
 </tr>
 </table>
 
