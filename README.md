@@ -78,10 +78,9 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the snow"</td>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A jeep car is moving on the desert"</td>
+  <td width=25% style="text-align:center;color:gray;">"spinning wings of windmill are beside the river"</td>
+  <td width=25% style="text-align:center;">"yellow spinning wings of windmill are beside the river"</td>
+  <td width=25% style="text-align:center;color:gray;">"yellow spinning wings of windmill are beside the river"</td>
 </tr>
 
 <tr>
