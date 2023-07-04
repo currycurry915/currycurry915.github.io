@@ -20,7 +20,6 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 
 ## Setup
 
-We use PyTorch version in 1.12.1
 ```shell
 pip install -r requirements.txt
 ```
