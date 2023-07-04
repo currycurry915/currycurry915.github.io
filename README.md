@@ -19,15 +19,6 @@
 Text-to-image diffusion, which has been trained with a large amount of text-image pair dataset, shows remarkable performance in generating high-quality images. Recent research using diffusion model has been expanded for text-guided video editing tasks by using text-guided image diffusion models as baseline. Existing video editing studies have devised an implicit method of adding cross-frame attention to estimate frame-frame attention to attention maps, resulting in temporal consistent editing. However, because these methods use generative models trained on text-image pair data, they do not take into account one of the most important characteristics of video: motion. When editing a video with prompts, the attention map of the prompt implying the motion of the video, such as `running' or `moving', is not clearly estimated and accurate editing cannot be performed. In this paper, we propose the `Motion Map Injection' (MMI) module to perform accurate video editing by considering movement information explicitly. The MMI module provides a simple but effective way to convey video motion information to T2V models by performing three steps: 1) extracting motion map, 2) calculating the similarity between the motion map and the attention map of each prompt, and 3) injecting motion map into the attention maps.  Considering experimental results, input video can be edited accurately and effectively with MMI module. To the best of our knowledge, our study is the first method that utilizes the motion in video for text-to-video editing.
 
 
-## Highlights
-
-- Video editing with off-the-shelf image diffusion models.
-
-- No training on any video.
-
-- Promising results in editing attributes, subjects, places, etc., in real-world videos.
-
-
 ## Installation
 
 ### Requirements
@@ -54,14 +45,6 @@ For example:
 accelerate launch test_vid2vid_zero.py --config configs/car-moving.yaml
 ```
 
-## Gradio Demo
-Launch the local demo built with [gradio](https://gradio.app/):
-```bash
-python app.py
-```
-
-Or you can use our online gradio demo [here](https://huggingface.co/spaces/BAAI/vid2vid-zero).
-
 Note that we disable Null-text Inversion and enable fp16 for faster demo response.
 
 ## Examples
@@ -75,8 +58,10 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
   <td style="text-align:center;"><b>Ours</b></td></tr>
 
 <tr>
+  <td width=25% style="text-align:center;color:gray;">"clouds flowing under a skyscraper"</td>
+  <td width=25% style="text-align:center;">"waves flowing under a skyscraper"</td>
   <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A Porsche car is moving on the desert"</td>
+  <td width=25% style="text-align:center;">"A jeep car is moving on the snow"</td>
   <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
   <td width=25% style="text-align:center;">"A jeep car is moving on the snow"</td>
 </tr>
