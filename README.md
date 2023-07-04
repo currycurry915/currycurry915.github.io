@@ -62,7 +62,8 @@ Note that we disable Null-text Inversion and enable fp16 for faster demo respons
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="results/clouds-wave-input.gif"></td>
+  <!--<td style colspan="2"><img src="results/clouds-wave-input.gif"></td>-->
+  <td width=25% style="text-align:center;color:gray;">"clouds flowing under a skyscraper"</td>
   <td style colspan="2"><img src="results/clouds-wave-existing.gif"></td>
   <td style colspan="2"><img src="results/clouds-wave-MMI.gif"></td>
 </tr>
