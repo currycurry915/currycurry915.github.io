@@ -23,7 +23,7 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 ```shell
 pip install -r requirements.txt
 ```
-The environment is very similar to [Video-P2P](https://github.com/ShaoTengLiu/Video-P2P)
+The environment is very similar to [Video-P2P](https://github.com/ShaoTengLiu/Video-P2P).
 
 ### Weights
 
