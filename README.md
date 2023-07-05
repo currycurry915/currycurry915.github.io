@@ -72,9 +72,9 @@ Find your results in **Video-P2P/outputs/xxx/results**.
 </tr>
 
 <tr>
-  <td align="center" style colspan="1"><img src="results/clouds-waves-input.gif" loop=infinite></td>
-  <td align="center" style colspan="1"><img src="results/clouds-waves-existing.gif"></td>
-  <td align="center" style colspan="1"><img src="results/clouds-waves-MMI.gif"></td>
+  <td align="center" style colspan="1"><img src="results/clouds_waves_input.gif" loop=infinite></td>
+  <td align="center" style colspan="1"><img src="results/clouds_waves_ori.gif"></td>
+  <td align="center" style colspan="1"><img src="results/clouds_waves_MMI.gif"></td>
 </tr>
 
 
@@ -85,9 +85,9 @@ Find your results in **Video-P2P/outputs/xxx/results**.
 </tr>
 
 <tr>
-  <td align="center" style colspan="1"><img src="results/clouds-lava-input.gif"></td>
-  <td align="center" style colspan="1"><img src="results/clouds-lava-existing.gif"></td>
-  <td align="center" style colspan="1"><img src="results/clouds-lava-MMI.gif"></td>       
+  <td align="center" style colspan="1"><img src="results/clouds_lava_input.gif"></td>
+  <td align="center" style colspan="1"><img src="results/clouds_lava_ori.gif"></td>
+  <td align="center" style colspan="1"><img src="results/clouds_lava_MMI.gif"></td>       
 </tr>
 
 <tr>
@@ -97,9 +97,9 @@ Find your results in **Video-P2P/outputs/xxx/results**.
 </tr>
 
 <tr>
-  <td align="center" style colspan="1"><img src="results/yellow-wings-input.gif"></td>
-  <td align="center" style colspan="1"><img src="results/yellow-wings-existing.gif"></td>
-  <td align="center" style colspan="1"><img src="results/yellow-wings-MMI.gif"></td>       
+  <td align="center" style colspan="1"><img src="results/yellow_windmill_input.gif"></td>
+  <td align="center" style colspan="1"><img src="results/yellow_windmill_ori.gif"></td>
+  <td align="center" style colspan="1"><img src="results/yellow_windmill_MMI.gif"></td>       
 </tr>
 </table>
 
