@@ -24,8 +24,8 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 
 | Input video                              | Video-P2P                         | Ours                           |
 |:-----------------------------------------|:----------------------------------|:-------------------------------|
-|![input](assets/img/black_boat_input.gif)    | ![video-p2p](assets/img/black_boat_ori.gif) | ![ours](assets/img/black_boat_MMI.gif)  |
-| clouds flowing under a skyscraper  -> waves flowing under a skyscraper  |
+| clouds flowing under a skyscraper | waves flowing under a skyscraper | waves flowing under a skyscraper |
+|![input](assets/img/clouds_waves_input.gif)    | ![video-p2p](assets/img/clouds_waves_ori.gif) | ![ours](assets/img/clouds_waves_MMI.gif)  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
