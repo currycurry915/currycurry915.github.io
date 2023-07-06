@@ -50,5 +50,5 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 
 ### Large image
 
-![testimage](results/black_boat_MMI.gif)
+![testimage](assets/img/black_boat_MMI.gif)
 
