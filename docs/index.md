@@ -14,9 +14,9 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 
 ## Our Contributions
 
-* contribution 1
-* contribution 2
-* contribution 3
+* To the best of our knowledge, our study is the first attempt to use optical flow information in the field of text-to-video editing.
+* Our proposed MMI module gives a way to effectively inject motion extracted from video into the attention map of the prompt.
+* We found that editing a video with the motion extracted from the video improves general editing performance and enables selective editing according to the direction in which the object moves.
 
 
 ## Results
