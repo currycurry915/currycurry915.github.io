@@ -26,8 +26,20 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 |:-----------------------------------------|:----------------------------------|:-------------------------------|
 | clouds flowing under a skyscraper | waves flowing under a skyscraper | waves flowing under a skyscraper |
 |![input](assets/img/clouds_waves_input.gif)    | ![video-p2p](assets/img/clouds_waves_ori.gif) | ![ours](assets/img/clouds_waves_MMI.gif)  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| clouds flowing on a mountain | lava flowing on a mountain | lava flowing on a mountain |
+|![input](assets/img/clouds_lava_input.gif)    | ![video-p2p](assets/img/clouds_lava_ori.gif) | ![ours](assets/img/clouds_lava_MMI.gif)  |
+| spinning wings of windmill are beside the river | yellow spinning wings of windmill are beside the river | yellow spinning wings of windmill are beside the river |
+|![input](assets/img/yellow_windmill_input.gif)    | ![video-p2p](assets/img/yellow_windmill_ori.gif) | ![ours](assets/img/yellow_windmill_MMI.gif)  |
+| there is a moving boats in the river | there is a black moving boats in the river | there is a black moving boats in the river |
+|![input](assets/img/black_boat_input.gif)    | ![video-p2p](assets/img/black_boat_ori.gif) | ![ours](assets/img/black_boat_MMI.gif)  |
+| there is a floating bubble from man | there is a floating duck from man | there is a floating duck from man |
+|![input](assets/img/bubble_duck_input.gif)    | ![video-p2p](assets/img/bubble_duck_ori.gif) | ![ours](assets/img/bubble_duck_MMI.gif)  |
+| there is spreading water on the man | there is colorful spreading water on the man | there is colorful spreading water on the man |
+|![input](assets/img/colorful_water_input.gif)    | ![video-p2p](assets/img/colorful_water_ori.gif) | ![ours](assets/img/colorful_water_MMI.gif)  |
+| there is a driving car in the parking lot | there is a red driving car in the parking lot | there is a red driving car in the parking lot |
+|![input](assets/img/red_car_input.gif)    | ![video-p2p](assets/img/red_car_ori.gif) | ![ours](assets/img/red_car_MMI.gif)  |
+| pink train prompt?? | pink train prompt?? | pink train prompt?? |
+|![input](assets/img/clouds_waves_input.gif)    | ![video-p2p](assets/img/clouds_waves_ori.gif) | ![ours](assets/img/clouds_waves_MMI.gif)  |
 
 
 
