@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # AttentionFlow: Text-to-Video Editing Using Motion Map Injection Module
 
 Authors : A, B, C, D, E
