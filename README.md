@@ -25,18 +25,18 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 | Input video                              | Video-P2P                         | Ours                           |
 |:-----------------------------------------|:----------------------------------|:-------------------------------|
 | clouds flowing under a skyscraper | waves flowing under a skyscraper | waves flowing under a skyscraper |
-|![input](docs/assets/img/clouds_waves_input.gif)    | ![video-p2p](docs/assets/img/clouds_waves_ori.gif) | ![ours](docs/assets/img/clouds_waves_MMI.gif)  |
+|![input](results/clouds_waves_input.gif)    | ![video-p2p](results/clouds_waves_ori.gif) | ![ours](results/clouds_waves_MMI.gif)  |
 | clouds flowing on a mountain | lava flowing on a mountain | lava flowing on a mountain |
-|![input](docs/assets/img/clouds_lava_input.gif)    | ![video-p2p](docs/assets/img/clouds_lava_ori.gif) | ![ours](docs/assets/img/clouds_lava_MMI.gif)  |
+|![input](results/clouds_lava_input.gif)    | ![video-p2p](results/clouds_lava_ori.gif) | ![ours](results/clouds_lava_MMI.gif)  |
 | spinning wings of windmill are beside the river | yellow spinning wings of windmill are beside the river | yellow spinning wings of windmill are beside the river |
-|![input](docs/assets/img/yellow_windmill_input.gif)    | ![video-p2p](docs/assets/img/yellow_windmill_ori.gif) | ![ours](docs/assets/img/yellow_windmill_MMI.gif)  |
+|![input](results/yellow_windmill_input.gif)    | ![video-p2p](results/yellow_windmill_ori.gif) | ![ours](results/yellow_windmill_MMI.gif)  |
 | there is a moving boats in the river | there is a black moving boats in the river | there is a black moving boats in the river |
-|![input](docs/assets/img/black_boat_input.gif)    | ![video-p2p](docs/assets/img/black_boat_ori.gif) | ![ours](docs/assets/img/black_boat_MMI.gif)  |
+|![input](results/black_boat_input.gif)    | ![video-p2p](results/black_boat_ori.gif) | ![ours](results/black_boat_MMI.gif)  |
 | there is a floating bubble from man | there is a floating duck from man | there is a floating duck from man |
-|![input](docs/assets/img/bubble_duck_input.gif)    | ![video-p2p](docs/assets/img/bubble_duck_ori.gif) | ![ours](docs/assets/img/bubble_duck_MMI.gif)  |
+|![input](results/bubble_duck_input.gif)    | ![video-p2p](results/bubble_duck_ori.gif) | ![ours](results/bubble_duck_MMI.gif)  |
 | there is spreading water on the man | there is colorful spreading water on the man | there is colorful spreading water on the man |
-|![input](docs/assets/img/colorful_water_input.gif)    | ![video-p2p](docs/assets/img/colorful_water_ori.gif) | ![ours](docs/assets/img/colorful_water_MMI.gif)  |
+|![input](results/colorful_water_input.gif)    | ![video-p2p](results/colorful_water_ori.gif) | ![ours](results/colorful_water_MMI.gif)  |
 | there is a driving car in the parking lot | there is a red driving car in the parking lot | there is a red driving car in the parking lot |
-|![input](docs/assets/img/red_car_input.gif)    | ![video-p2p](docs/assets/img/red_car_ori.gif) | ![ours](docs/assets/img/red_car_MMI.gif)  |
+|![input](results/red_car_input.gif)    | ![video-p2p](results/red_car_ori.gif) | ![ours](results/red_car_MMI.gif)  |
 | pink train prompt?? | pink train prompt?? | pink train prompt?? |
-|![input](docs/assets/img/pink_train_input.gif)    | ![video-p2p](docs/assets/img/pink_train_ori.gif) | ![ours](docs/assets/img/pink_train_MMI.gif)  |
+|![input](results/pink_train_input.gif)    | ![video-p2p](results/pink_train_ori.gif) | ![ours](results/pink_train_MMI.gif)  |
