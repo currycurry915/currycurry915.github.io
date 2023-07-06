@@ -39,4 +39,4 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 | there is a driving car in the parking lot | there is a red driving car in the parking lot | there is a red driving car in the parking lot |
 |![input](docs/assets/img/red_car_input.gif)    | ![video-p2p](docs/assets/img/red_car_ori.gif) | ![ours](docs/assets/img/red_car_MMI.gif)  |
 | pink train prompt?? | pink train prompt?? | pink train prompt?? |
-|![input](docs/assets/img/clouds_waves_input.gif)    | ![video-p2p](docs/assets/img/clouds_waves_ori.gif) | ![ours](docs/assets/img/clouds_waves_MMI.gif)  |
+|![input](docs/assets/img/pink_train_input.gif)    | ![video-p2p](docs/assets/img/pink_train_ori.gif) | ![ours](docs/assets/img/pink_train_MMI.gif)  |
