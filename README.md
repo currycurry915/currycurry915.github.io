@@ -25,7 +25,7 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 | Input video                              | Video-P2P                         | Ours                           |
 |:-----------------------------------------|:----------------------------------|:-------------------------------|
 | clouds flowing under a skyscraper | waves flowing under a skyscraper | waves flowing under a skyscraper |
-|![input](docs/assets/img/clouds_waves_input.gif)    | ![video-p2p](docs/assets/img/clouds_waves_ori.gif) | ![ours](assets/img/clouds_waves_MMI.gif)  |
+|![input](assets/img/clouds_waves_input.gif)    | ![video-p2p](assets/img/clouds_waves_ori.gif) | ![ours](assets/img/clouds_waves_MMI.gif)  |
 | clouds flowing on a mountain | lava flowing on a mountain | lava flowing on a mountain |
 |![input](assets/img/clouds_lava_input.gif)    | ![video-p2p](assets/img/clouds_lava_ori.gif) | ![ours](assets/img/clouds_lava_MMI.gif)  |
 | spinning wings of windmill are beside the river | yellow spinning wings of windmill are beside the river | yellow spinning wings of windmill are beside the river |
