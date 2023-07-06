@@ -22,9 +22,9 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 ## Results
 
 
-| Input video        | Video-P2P          | Ours |
-|:-------------|:------------------|:------|
-| size ok?           | good swedish fish | nice  |
+| Input video                              | Video-P2P                         | Ours                           |
+|:-----------------------------------------|:----------------------------------|:-------------------------------|
+|![ours](assets/img/black_boat_MMI.gif)    | ![ours](assets/img/black_boat_MMI.gif) | ![ours](assets/img/black_boat_MMI.gif)  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
