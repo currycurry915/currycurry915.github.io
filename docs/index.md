@@ -41,14 +41,3 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 | pink train prompt?? | pink train prompt?? | pink train prompt?? |
 |![input](assets/img/clouds_waves_input.gif)    | ![video-p2p](assets/img/clouds_waves_ori.gif) | ![ours](assets/img/clouds_waves_MMI.gif)  |
 
-
-
-
-### Small image
-
-![testimage](assets/img/black_boat_MMI.gif)
-
-### Large image
-
-![testimage](assets/img/black_boat_MMI.gif)
-
