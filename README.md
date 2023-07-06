@@ -38,5 +38,5 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 |![input](results/colorful_water_input.gif)    | ![video-p2p](results/colorful_water_ori.gif) | ![ours](results/colorful_water_MMI.gif)  |
 | there is a driving car in the parking lot | there is a red driving car in the parking lot | there is a red driving car in the parking lot |
 |![input](results/red_car_input.gif)    | ![video-p2p](results/red_car_ori.gif) | ![ours](results/red_car_MMI.gif)  |
-| pink train prompt?? | pink train prompt?? | pink train prompt?? |
+| there is a running train | there is a running pink train | there is a running pink train |
 |![input](results/pink_train_input.gif)    | ![video-p2p](results/pink_train_ori.gif) | ![ours](results/pink_train_MMI.gif)  |
